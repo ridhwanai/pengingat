@@ -1,4 +1,9 @@
-# STATUS SOURCE — Pengingat (per 28 Oktober 2026, revisi v1.1)
+# STATUS SOURCE — Pengingat (per 28 Oktober 2026, revisi v1.2)
+
+## Revisi v1.2 (28 Okt — perbaikan dari log build Actions pertama)
+- Build pertama GAGAL di `:app:checkReleaseAarMetadata`: 44 isu yang semuanya satu akar — pustaka yang dipakai (Compose BOM 2024.02, Glance 1.0.0, WorkManager 2.9.0, Room 2.6.1, lifecycle 2.7.0) mewajibkan **compileSdk ≥ 34**, sedangkan proyek diset 33.
+- Perbaikan: `compileSdk = 34` + `targetSdk = 34` di `app/build.gradle.kts`, dan GuardService di Manifest diberi `foregroundServiceType="specialUse"` + property subtype (syarat targetSdk 34 di Android 14). minSdk tetap 29; aplikasi tetap berjalan di HP user (Android 13).
+- Build BELUM mencapai tahap kompilasi Kotlin pada run pertama itu — run berikutnya yang membuktikan tahap selanjutnya.
 
 ## Revisi v1.1 (28 Okt, permintaan user)
 - **Modul KernelSU DICABUT TOTAL** — ini murni aplikasi; root diberikan ke aplikasi oleh user. Folder ksu-module dihapus, workflow tidak lagi membuild modul. Watchdog kini internal aplikasi (WorkManager 15 mnt + BootReceiver + alarm restart).

@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "id.pengingat.app"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "id.pengingat.app"
         minSdk = 29
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0.0"
     }

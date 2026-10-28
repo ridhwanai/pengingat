@@ -73,7 +73,12 @@
         <!-- Service penjaga (foreground): alarm, eskalasi, pemulihan popup -->
         <service
             android:name=".service.GuardService"
-            android:exported="false" />
+            android:exported="false"
+            android:foregroundServiceType="specialUse">
+            <property
+                android:name="android.app.PROPERTY_SPECIAL_USE_FGS_SUBTYPE"
+                android:value="Watchdog penjaga check-in pagi dan pemulihan popup peringatan persisten sesuai konfigurasi pengguna" />
+        </service>
 
         <!-- Deteksi aplikasi pantauan secara real-time -->
         <service
