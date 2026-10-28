@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengingat</string>
+    <string name="accessibility_label">Pengingat — Deteksi Aplikasi Pantauan</string>
+    <string name="accessibility_desc">Mendeteksi saat aplikasi yang kamu tandai sebagai pantauan dibuka, lalu menampilkan peringatan Pengingat. Tidak ada data yang dikirim ke mana pun; semua diproses di HP ini.</string>
+</resources>

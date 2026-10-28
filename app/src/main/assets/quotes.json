@@ -1,0 +1,642 @@
+{
+ "note": "Terjemahan mengikuti terjemahan Kementerian Agama RI sebaik yang diketahui penulis data ini; WAJIB diverifikasi final kata per kata terhadap mushaf & terjemahan resmi Kemenag sebelum rilis. Teks refleksi adalah tulisan motivasi, bukan tafsir.",
+ "quotes": [
+  {
+   "id": 1,
+   "arab": "قُلْ يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَىٰ أَنفُسِهِمْ لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ ۚ إِنَّ اللَّهَ يَغْفِرُ الذُّنُوبَ جَمِيعًا ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
+   "translation": "Katakanlah: \"Hai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri, janganlah kamu berputus asa dari rahmat Allah. Sesungguhnya Allah mengampuni dosa-dosa semuanya. Sesungguhnya Dialah Yang Maha Pengampun lagi Maha Penyayang.\"",
+   "source": "QS. Az-Zumar [39]: 53",
+   "reflection": "Sebesar apa pun dosa kemarin, pintu rahmat Allah masih terbuka hari ini. Jangan putus asa — bertaubatlah dan mulai lagi.",
+   "tags": [
+    "bangkit",
+    "widget",
+    "acak"
+   ]
+  },
+  {
+   "id": 2,
+   "arab": "وَالَّذِينَ إِذَا فَعَلُوا فَاحِشَةً أَوْ ظَلَمُوا أَنفُسَهُمْ ذَكَرُوا اللَّهَ فَاسْتَغْفَرُوا لِذُنُوبِهِمْ وَمَن يَغْفِرُ الذُّنُوبَ إِلَّا اللَّهُ وَلَمْ يُصِرُّوا عَلَىٰ مَا فَعَلُوا وَهُمْ يَعْلَمُونَ",
+   "translation": "Dan (juga) orang-orang yang apabila mengerjakan perbuatan keji atau menganiaya diri sendiri, mereka (segera) mengingat Allah, lalu memohon ampun atas dosa-dosanya, dan siapa (lagi) yang dapat mengampuni dosa-dosa selain Allah? Dan mereka tidak meneruskan perbuatan dosa itu, sedang mereka mengetahui.",
+   "source": "QS. Ali 'Imran [3]: 135",
+   "reflection": "Yang dipuji Allah bukan orang yang tak pernah jatuh, melainkan yang setiap jatuh segera ingat Allah, memohon ampun, dan tidak meneruskan dosanya.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 3,
+   "arab": "إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا",
+   "translation": "Kecuali orang-orang yang bertobat, beriman dan mengerjakan kebajikan, maka kejahatan mereka diganti Allah dengan kebaikan. Dan Allah Maha Pengampun lagi Maha Penyayang.",
+   "source": "QS. Al-Furqan [25]: 70",
+   "reflection": "Taubat yang sungguh-sungguh tidak hanya menghapus dosa — Allah bahkan mengganti catatan keburukan itu dengan kebaikan.",
+   "tags": [
+    "bangkit",
+    "widget"
+   ]
+  },
+  {
+   "id": 4,
+   "arab": "قُل لِّلْمُؤْمِنِينَ يَغُضُّوا مِنْ أَبْصَارِهِمْ وَيَحْفَظُوا فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ اللَّهَ خَبِيرٌ بِمَا يَصْنَعُونَ",
+   "translation": "Katakanlah kepada laki-laki yang beriman, agar mereka menjaga pandangannya dan memelihara kemaluannya; yang demikian itu lebih suci bagi mereka. Sesungguhnya Allah Maha Mengetahui apa yang mereka perbuat.",
+   "source": "QS. An-Nur [24]: 30",
+   "reflection": "Perjuangan ini dimenangkan pertama kali di mata. Tundukkan pandanganmu — itu lebih suci bagimu, dan Allah tahu persis usahamu.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 5,
+   "arab": "وَلَا تَقْرَبُوا الزِّنَا ۖ إِنَّهُ كَانَ فَاحِشَةً وَسَاءَ سَبِيلًا",
+   "translation": "Dan janganlah kamu mendekati zina; sesungguhnya zina itu adalah suatu perbuatan yang keji dan suatu jalan yang buruk.",
+   "source": "QS. Al-Isra [17]: 32",
+   "reflection": "Allah tidak hanya melarang perbuatannya, tapi juga semua jalan yang mendekatkannya. Tutup pintunya dari jauh.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 6,
+   "arab": "يَعْلَمُ خَائِنَةَ الْأَعْيُنِ وَمَا تُخْفِي الصُّدُورُ",
+   "translation": "Dia mengetahui (pandangan) mata yang khianat dan apa yang disembunyikan oleh hati.",
+   "source": "QS. Gafir [40]: 19",
+   "reflection": "Tidak ada layar yang cukup gelap dan tidak ada ruang yang cukup sepi — Allah mengetahui lirikan mata yang khianat sekalipun.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 7,
+   "arab": "وَلَقَدْ خَلَقْنَا الْإِنسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+   "translation": "Dan sesungguhnya Kami telah menciptakan manusia dan mengetahui apa yang dibisikkan oleh hatinya, dan Kami lebih dekat kepadanya daripada urat lehernya.",
+   "source": "QS. Qaf [50]: 16",
+   "reflection": "Bisikan hatimu pun Allah tahu, dan Dia lebih dekat daripadamu urat lehermu sendiri. Kamu tidak pernah benar-benar sendirian.",
+   "tags": [
+    "godaan",
+    "acak"
+   ]
+  },
+  {
+   "id": 8,
+   "arab": "الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+   "translation": "(Yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, hanya dengan mengingat Allah-lah hati menjadi tenteram.",
+   "source": "QS. Ar-Ra'd [13]: 28",
+   "reflection": "Gelisah yang selama ini kamu cari pelariannya di tempat yang salah, obatnya justru mengingat Allah.",
+   "tags": [
+    "widget",
+    "acak",
+    "checkin"
+   ]
+  },
+  {
+   "id": 9,
+   "arab": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+   "translation": "Karena sesungguhnya sesudah kesulitan itu ada kemudahan.",
+   "source": "QS. Asy-Syarh [94]: 5",
+   "reflection": "Hari-hari berat menahan diri ini tidak sia-sia; kemudahan selalu datang menyertai kesulitan, bukan hanya sesudahnya.",
+   "tags": [
+    "bangkit",
+    "widget"
+   ]
+  },
+  {
+   "id": 10,
+   "arab": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+   "translation": "Sesungguhnya sesudah kesulitan itu ada kemudahan.",
+   "source": "QS. Asy-Syarh [94]: 6",
+   "reflection": "Allah mengulang janji yang sama dua kali berturut-turut — agar kamu benar-benar yakin dan tidak menyerah.",
+   "tags": [
+    "widget",
+    "bangkit"
+   ]
+  },
+  {
+   "id": 11,
+   "arab": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
+   "translation": "Karena itu, ingatlah kamu kepada-Ku niscaya Aku ingat (pula) kepadamu, dan bersyukurlah kepada-Ku, dan janganlah kamu mengingkari (nikmat)-Ku.",
+   "source": "QS. Al-Baqarah [2]: 152",
+   "reflection": "Setiap hari bersih yang kamu jaga adalah nikmat yang layak disyukuri. Ingatlah Allah, Dia mengingatmu.",
+   "tags": [
+    "syukur",
+    "widget",
+    "checkin"
+   ]
+  },
+  {
+   "id": 12,
+   "arab": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا",
+   "translation": "Allah tidak membebani seseorang melainkan sesuai dengan kesanggupannya.",
+   "source": "QS. Al-Baqarah [2]: 286 (potongan)",
+   "reflection": "Perjuangan ini berada dalam batas kemampuanmu — Allah sendiri yang menegaskannya. Kamu sanggup melewati hari ini.",
+   "tags": [
+    "bangkit",
+    "checkin"
+   ]
+  },
+  {
+   "id": 13,
+   "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ",
+   "translation": "Hai orang-orang yang beriman, jadikanlah sabar dan shalat sebagai penolongmu, sesungguhnya Allah beserta orang-orang yang sabar.",
+   "source": "QS. Al-Baqarah [2]: 153",
+   "reflection": "Saat keinginan itu datang, dua penolongmu sudah jelas: sabar dan shalat. Ambil wudu, lalu shalatlah.",
+   "tags": [
+    "subuh",
+    "checkin"
+   ]
+  },
+  {
+   "id": 14,
+   "arab": "إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
+   "translation": "Sesungguhnya Allah menyukai orang-orang yang bertobat dan menyukai orang-orang yang menyucikan diri.",
+   "source": "QS. Al-Baqarah [2]: 222 (potongan)",
+   "reflection": "Kembali kepada Allah tidak membuatmu hina — justru orang yang bertobat adalah orang yang dicintai-Nya.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 15,
+   "arab": "يَا بَنِيَّ اذْهَبُوا فَتَحَسَّسُوا مِن يُوسُفَ وَأَخِيهِ وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ ۖ إِنَّهُ لَا يَيْأَسُ مِن رَّوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكَافِرُونَ",
+   "translation": "Hai anak-anakku, pergilah kamu, maka carilah berita tentang Yusuf dan saudaranya dan jangan kamu berputus asa dari rahmat Allah. Sesungguhnya tiada berputus asa dari rahmat Allah, melainkan kaum yang kafir.",
+   "source": "QS. Yusuf [12]: 87",
+   "reflection": "Sesulit apa pun keadaanmu hari ini, berputus asa dari rahmat Allah bukan pilihan bagi seorang mukmin.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 16,
+   "arab": "أَلَمْ يَعْلَمُوا أَنَّ اللَّهَ هُوَ يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَأْخُذُ الصَّدَقَاتِ وَأَنَّ اللَّهَ هُوَ التَّوَّابُ الرَّحِيمُ",
+   "translation": "Tidaklah mereka mengetahui, bahwasanya Allah menerima taubat dari hamba-hamba-Nya dan menerima zakat, dan bahwasanya Allah Maha Penerima Taubat lagi Maha Penyayang?",
+   "source": "QS. At-Taubah [9]: 104",
+   "reflection": "Taubatmu diterima oleh Zat yang nama-Nya sendiri At-Tawwab, Maha Penerima Taubat. Datanglah tanpa ragu.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 17,
+   "arab": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
+   "translation": "Dan orang-orang yang berjihad untuk (mencari keridhaan) Kami, benar-benar akan Kami tunjukkan kepada mereka jalan-jalan Kami. Dan sesungguhnya Allah benar-benar beserta orang-orang yang berbuat baik.",
+   "source": "QS. Al-'Ankabut [29]: 69",
+   "reflection": "Melawan hawa nafsu adalah jihad yang dijanjikan petunjuk. Setiap hari kamu bertahan, Allah menunjukkan jalan berikutnya.",
+   "tags": [
+    "checkin",
+    "godaan",
+    "widget"
+   ]
+  },
+  {
+   "id": 18,
+   "arab": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+   "translation": "Dirikanlah shalat dari sesudah matahari tergelincir sampai gelap malam dan (dirikanlah pula shalat) Subuh. Sesungguhnya shalat Subuh itu disaksikan (oleh malaikat).",
+   "source": "QS. Al-Isra [17]: 78",
+   "reflection": "Subuh ini disaksikan para malaikat. Bangunlah — namamu disebut di antara orang-orang yang hadir shalat Subuh.",
+   "tags": [
+    "subuh"
+   ]
+  },
+  {
+   "id": 19,
+   "arab": "وَمَن يَعْمَلْ سُوءًا أَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللَّهَ يَجِدِ اللَّهَ غَفُورًا رَّحِيمًا",
+   "translation": "Dan barangsiapa yang mengerjakan kejahatan dan menganiaya dirinya, kemudian ia mohon ampun kepada Allah, niscaya ia mendapati Allah Maha Pengampun lagi Maha Penyayang.",
+   "source": "QS. An-Nisa [4]: 110",
+   "reflection": "Urutan dari Allah jelas: berbuat dosa, lalu beristighfar, lalu mendapati-Nya Maha Pengampun. Jalani langkah keduanya sekarang.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 20,
+   "arab": "وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ ۚ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ",
+   "translation": "Dan dirikanlah shalat itu pada kedua tepi siang (pagi dan petang) dan pada bahagian permulaan daripada malam. Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat.",
+   "source": "QS. Hud [11]: 114",
+   "reflection": "Kebaikan yang kamu kerjakan hari ini — mulai dari shalat Subuh — menghapus kesalahan-kesalahan yang lalu.",
+   "tags": [
+    "bangkit",
+    "subuh"
+   ]
+  },
+  {
+   "id": 21,
+   "arab": "وَاصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+   "translation": "Dan bersabarlah, karena sesungguhnya Allah tiada menyia-nyiakan pahala orang-orang yang berbuat kebaikan.",
+   "source": "QS. Hud [11]: 115",
+   "reflection": "Tidak ada satu detik pun kesabaranmu yang hilang dari catatan Allah. Bertahanlah, pahalamu utuh.",
+   "tags": [
+    "checkin"
+   ]
+  },
+  {
+   "id": 22,
+   "arab": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى اللَّهِ فَهُوَ حَسْبُهُ",
+   "translation": "Dan memberinya rezeki dari arah yang tiada disangka-sangkanya. Dan barangsiapa yang bertawakal kepada Allah niscaya Allah akan mencukupkan (keperluan)nya.",
+   "source": "QS. Ath-Thalaq [65]: 3 (potongan)",
+   "reflection": "Bertawakal bukan berarti pasrah tanpa usaha — kamu sudah berusaha; serahkan sisanya kepada Allah, Dia yang mencukupkan.",
+   "tags": [
+    "widget",
+    "acak"
+   ]
+  },
+  {
+   "id": 23,
+   "arab": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+   "translation": "Barangsiapa bertakwa kepada Allah niscaya Dia akan mengadakan baginya jalan keluar.",
+   "source": "QS. Ath-Thalaq [65]: 2 (potongan)",
+   "reflection": "Merasa terpojok oleh keinginanmu sendiri? Takwa adalah kuncinya — Allah sendiri yang membukakan jalan keluar.",
+   "tags": [
+    "godaan",
+    "acak"
+   ]
+  },
+  {
+   "id": 24,
+   "arab": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ",
+   "translation": "Jadikanlah sabar dan shalat sebagai penolongmu. Dan sesungguhnya yang demikian itu sungguh berat, kecuali bagi orang-orang yang khusyu'.",
+   "source": "QS. Al-Baqarah [2]: 45",
+   "reflection": "Berat memang — Allah tidak menutupinya. Tapi bagi yang khusyuk, shalat menjadi penolong, bukan beban.",
+   "tags": [
+    "subuh"
+   ]
+  },
+  {
+   "id": 25,
+   "arab": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ يَرْشُدُونَ",
+   "translation": "Dan apabila hamba-hamba-Ku bertanya kepadamu tentang Aku, maka (jawablah), bahwasanya Aku adalah dekat. Aku mengabulkan permohonan orang yang berdoa apabila ia memohon kepada-Ku, maka hendaklah mereka itu memenuhi (segala perintah-Ku) dan hendaklah mereka beriman kepada-Ku, agar mereka selalu berada dalam kebenaran.",
+   "source": "QS. Al-Baqarah [2]: 186",
+   "reflection": "Kamu tidak perlu perantara dan tidak perlu menunggu. Allah dekat — mintalah kekuatan langsung kepada-Nya.",
+   "tags": [
+    "widget",
+    "acak"
+   ]
+  },
+  {
+   "id": 26,
+   "arab": "وَلَا تَهِنُوا وَلَا تَحْزَنُوا وَأَنتُمُ الْأَعْلَوْنَ إِن كُنتُم مُّؤْمِنِينَ",
+   "translation": "Janganlah kamu bersikap lemah, dan janganlah (pula) kamu bersedih hati, padahal kamulah orang-orang yang paling tinggi (derajatnya), jika kamu orang-orang yang beriman.",
+   "source": "QS. Ali 'Imran [3]: 139",
+   "reflection": "Gagal kemarin bukan akhir ceritamu. Jangan lemah, jangan larut bersedih — imanmu membuatmu lebih tinggi dari dosamu.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 27,
+   "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+   "translation": "Hai orang-orang yang beriman, bersabarlah kamu dan kuatkanlah kesabaranmu dan tetaplah bersiap siaga (di perbatasan negerimu) dan bertakwalah kepada Allah, supaya kamu beruntung.",
+   "source": "QS. Ali 'Imran [3]: 200",
+   "reflection": "Bersiap-siaga seperti penjaga perbatasan — begitulah kamu menjaga dirimu setiap hari. Itulah jalan keberuntungan.",
+   "tags": [
+    "godaan",
+    "checkin"
+   ]
+  },
+  {
+   "id": 28,
+   "arab": "وَاللَّهُ يُرِيدُ أَن يَتُوبَ عَلَيْكُمْ وَيُرِيدُ الَّذِينَ يَتَّبِعُونَ الشَّهَوَاتِ أَن تَمِيلُوا مَيْلًا عَظِيمًا",
+   "translation": "Dan Allah hendak menerima taubatmu, sedang orang-orang yang mengikuti syahwatnya menghendaki supaya kamu berpaling sejauh-jauhnya (dari kebenaran).",
+   "source": "QS. An-Nisa [4]: 27",
+   "reflection": "Dua keinginan sedang memperebutkanmu: Allah ingin menerima taubatmu, para pengikut syahwat ingin kamu jauh. Kamu pilih yang mana?",
+   "tags": [
+    "godaan",
+    "bangkit"
+   ]
+  },
+  {
+   "id": 29,
+   "arab": "يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ الْإِنسَانُ ضَعِيفًا",
+   "translation": "Allah hendak memberikan keringanan kepadamu, dan manusia dijadikan bersifat lemah.",
+   "source": "QS. An-Nisa [4]: 28",
+   "reflection": "Allah tahu manusia itu lemah — karena itu Dia memberi keringanan dan membuka pintu taubat lebar-lebar, bukan menutupnya.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 30,
+   "arab": "إِنَّ الَّذِينَ اتَّقَوْا إِذَا مَسَّهُمْ طَائِفٌ مِّنَ الشَّيْطَانِ تَذَكَّرُوا فَإِذَا هُم مُّبْصِرُونَ",
+   "translation": "Sesungguhnya orang-orang yang bertakwa bila mereka ditimpa was-was dari syaitan, mereka ingat kepada Allah, maka ketika itu juga mereka melihat kesalahan-kesalahannya.",
+   "source": "QS. Al-A'raf [7]: 201",
+   "reflection": "Godaan itu datang seperti bayangan lewat. Ciri orang bertakwa bukan tidak digoda, tapi segera ingat Allah saat digoda — seperti yang sedang kamu lakukan.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 31,
+   "arab": "وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ",
+   "translation": "Dan aku tidak membebaskan diriku (dari kesalahan), karena sesungguhnya nafsu itu selalu menyuruh kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Tuhanku. Sesungguhnya Tuhanku Maha Pengampun lagi Maha Penyayang.",
+   "source": "QS. Yusuf [12]: 53",
+   "reflection": "Mengakui nafsu itu selalu menyuruh pada kejahatan bukan kelemahan — itu kewaspadaan. Rahmat Allah-lah yang menjagamu.",
+   "tags": [
+    "godaan",
+    "bangkit"
+   ]
+  },
+  {
+   "id": 32,
+   "arab": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِي لَشَدِيدٌ",
+   "translation": "Dan (ingatlah juga), tatkala Tuhanmu memaklumkan; \"Sesungguhnya jika kamu bersyukur, pasti Kami akan menambah (nikmat) kepadamu, dan jika kamu mengingkari (nikmat-Ku), maka sesungguhnya azab-Ku sangat pedih\".",
+   "source": "QS. Ibrahim [14]: 7",
+   "reflection": "Setiap pagi kamu masih diberi kesempatan bertaubat adalah nikmat itu sendiri. Syukuri dengan menjaganya.",
+   "tags": [
+    "syukur",
+    "widget"
+   ]
+  },
+  {
+   "id": 33,
+   "arab": "مَنْ عَمِلَ صَالِحًا مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ",
+   "translation": "Barangsiapa yang mengerjakan amal saleh, baik laki-laki maupun perempuan dalam keadaan beriman, maka sesungguhnya akan Kami berikan kepadanya kehidupan yang baik dan sesungguhnya akan Kami beri balasan kepada mereka dengan pahala yang lebih baik dari apa yang telah mereka kerjakan.",
+   "source": "QS. An-Nahl [16]: 97",
+   "reflection": "Kehidupan yang baik — hati yang bersih dan tenang — adalah janji Allah bagi yang beramal saleh dalam iman. Itulah yang sedang kamu kejar.",
+   "tags": [
+    "widget",
+    "checkin"
+   ]
+  },
+  {
+   "id": 34,
+   "arab": "وَاصْبِرْ وَمَا صَبْرُكَ إِلَّا بِاللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِي ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+   "translation": "Bersabarlah (hai Muhammad) dan tiadalah kesabaranmu itu melainkan dengan pertolongan Allah dan janganlah kamu bersedih hati terhadap (kekafiran) mereka dan janganlah kamu bersempit dada terhadap apa yang mereka tipu dayakan.",
+   "source": "QS. An-Nahl [16]: 127",
+   "reflection": "Kesabaranmu bukan dari kekuatanmu sendiri — ia datang dengan pertolongan Allah. Minta pertolongan itu setiap hari.",
+   "tags": [
+    "checkin"
+   ]
+  },
+  {
+   "id": 35,
+   "arab": "وَأْمُرْ أَهْلَكَ بِالصَّلَاةِ وَاصْطَبِرْ عَلَيْهَا ۖ لَا نَسْأَلُكَ رِزْقًا ۖ نَّحْنُ نَرْزُقُكَ ۗ وَالْعَاقِبَةُ لِلتَّقْوَىٰ",
+   "translation": "Dan perintahkanlah kepada keluargamu mendirikan shalat dan bersabarlah kamu dalam mengerjakannya. Kami tidak meminta rezeki kepadamu, Kamilah yang memberi rezeki kepadamu. Dan akibat (yang baik) itu adalah bagi orang yang bertakwa.",
+   "source": "QS. Thaha [20]: 132",
+   "reflection": "Sabar dalam shalat — termasuk bangun Subuh yang berat itu — ujungnya selalu baik bagi orang yang bertakwa.",
+   "tags": [
+    "subuh",
+    "checkin"
+   ]
+  },
+  {
+   "id": 36,
+   "arab": "فَنَادَىٰ فِي الظُّلُمَاتِ أَن لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+   "translation": "Maka ia menyeru dalam keadaan yang sangat gelap: \"Bahwa tidak ada Tuhan selain Engkau. Maha Suci Engkau, sesungguhnya aku adalah termasuk orang-orang yang zalim.\"",
+   "source": "QS. Al-Anbiya [21]: 87 (potongan)",
+   "reflection": "Dari gelapnya perut ikan, Nabi Yunus mengakui kezaliman dirinya — dan Allah menyelamatkannya. Akui, sesali, dan kamu pun akan dikeluarkan dari gelapmu.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 37,
+   "arab": "وَقُل رَّبِّ اغْفِرْ وَارْحَمْ وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+   "translation": "Dan katakanlah: \"Ya Tuhanku berilah ampun dan berilah rahmat, dan Engkau adalah Pemberi rahmat Yang Paling Baik.\"",
+   "source": "QS. Al-Mu'minun [23]: 118",
+   "reflection": "Doa pendek untuk diulang hari ini: Ya Rabb, ampunilah dan rahmatilah aku — Engkau sebaik-baik Pemberi rahmat.",
+   "tags": [
+    "bangkit",
+    "widget"
+   ]
+  },
+  {
+   "id": 38,
+   "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ وَمَن يَتَّبِعْ خُطُوَاتِ الشَّيْطَانِ فَإِنَّهُ يَأْمُرُ بِالْفَحْشَاءِ وَالْمُنكَرِ ۚ وَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ مَا زَكَىٰ مِنكُم مِّنْ أَحَدٍ أَبَدًا وَلَٰكِنَّ اللَّهَ يُزَكِّي مَن يَشَاءُ ۗ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+   "translation": "Hai orang-orang yang beriman, janganlah kamu mengikuti langkah-langkah syaitan. Barangsiapa yang mengikuti langkah-langkah syaitan, maka sesungguhnya syaitan itu menyuruh mengerjakan perbuatan yang keji dan yang mungkar. Sekiranya tidaklah karena kurnia Allah dan rahmat-Nya kepada kamu sekalian, niscaya tidak seorangpun dari kamu bersih (dari perbuatan-perbuatan keji dan mungkar itu) selama-lamanya, tetapi Allah membersihkan siapa yang dikehendaki-Nya. Dan Allah Maha Mendengar lagi Maha Mengetahui.",
+   "source": "QS. An-Nur [24]: 21",
+   "reflection": "Setan tidak mengajakmu jatuh sekaligus — hanya satu langkah kecil demi satu langkah kecil. Karena itu berhenti di langkah pertama, seperti sekarang.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 39,
+   "arab": "وَمَن تَابَ وَعَمِلَ صَالِحًا فَإِنَّهُ يَتُوبُ إِلَى اللَّهِ مَتَابًا",
+   "translation": "Dan orang-orang yang bertobat dan mengerjakan amal saleh, maka sesungguhnya dia bertobat kepada Allah dengan taubat yang sebenar-benarnya.",
+   "source": "QS. Al-Furqan [25]: 71",
+   "reflection": "Taubat yang sebenar-benarnya selalu berpasangan dengan amal saleh sesudahnya. Satu kebaikan kecil hari ini adalah buktinya.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 40,
+   "arab": "فَأَمَّا مَن تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَعَسَىٰ أَن يَكُونَ مِنَ الْمُفْلِحِينَ",
+   "translation": "Adapun orang yang bertobat dan beriman, serta mengerjakan amal yang saleh, semoga dia termasuk orang-orang yang beruntung.",
+   "source": "QS. Al-Qashash [28]: 67",
+   "reflection": "Bertobat, beriman, beramal saleh — tiga langkah orang-orang yang beruntung. Kamu sedang menapakinya.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 41,
+   "arab": "يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ",
+   "translation": "Hai anakku, dirikanlah shalat dan suruhlah (manusia) mengerjakan yang baik dan cegahlah (mereka) dari perbuatan yang mungkar dan bersabarlah terhadap apa yang menimpa kamu. Sesungguhnya yang demikian itu termasuk hal-hal yang diwajibkan (oleh Allah).",
+   "source": "QS. Luqman [31]: 17",
+   "reflection": "Pesan Luqman kepada anaknya berlaku juga untukmu pagi ini: dirikan shalat, dan bersabarlah — itu termasuk perkara yang paling utama.",
+   "tags": [
+    "subuh",
+    "checkin"
+   ]
+  },
+  {
+   "id": 42,
+   "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا",
+   "translation": "Hai orang-orang yang beriman, berzdikirlah (dengan menyebut nama) Allah, zikir yang sebanyak-banyaknya.",
+   "source": "QS. Al-Ahzab [33]: 41",
+   "reflection": "Hari ini, perbanyak mengingat Allah. Zikir yang banyak adalah penjaga hati yang paling ringan di lisan dan paling berat timbangannya.",
+   "tags": [
+    "acak",
+    "widget"
+   ]
+  },
+  {
+   "id": 43,
+   "arab": "يَا أَيُّهَا النَّاسُ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ الْحَيَاةُ الدُّنْيَا ۖ وَلَا يَغُرَّنَّكُم بِاللَّهِ الْغَرُورُ",
+   "translation": "Hai manusia, sesungguhnya janji Allah adalah benar, maka sekali-kali janganlah kehidupan dunia memperdayakan kamu dan sekali-kali janganlah syaitan yang pandai menipu, memperdayakan kamu tentang Allah.",
+   "source": "QS. Fathir [35]: 5",
+   "reflection": "Kesenangan sesaat itu tipuan yang sudah diperingatkan sejak awal. Janji Allah yang benar — jangan tukar yang kekal dengan yang sekejap.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 44,
+   "arab": "وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنسَاهُمْ أَنفُسَهُمْ ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+   "translation": "Dan janganlah kamu seperti orang-orang yang lupa kepada Allah, lalu Allah menjadikan mereka lupa kepada mereka sendiri. Mereka itulah orang-orang yang fasik.",
+   "source": "QS. Al-Hasyr [59]: 19",
+   "reflection": "Awal dari jauhnya seseorang adalah lupa kepada Allah, lalu lupa pada dirinya sendiri. Kamu sedang mengingat-Nya sekarang — bertahanlah di situ.",
+   "tags": [
+    "godaan",
+    "acak"
+   ]
+  },
+  {
+   "id": 45,
+   "arab": "وَقَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ",
+   "translation": "Dan Tuhanmu berfirman: \"Berdoalah kepada-Ku, niscaya akan Kuperkenankan bagimu.\"",
+   "source": "QS. Gafir [40]: 60 (potongan)",
+   "reflection": "Allah sendiri yang memintamu berdoa dan menjanjikan pengabulan. Minta kekuatan untuk hari ini — sekarang.",
+   "tags": [
+    "widget",
+    "subuh"
+   ]
+  },
+  {
+   "id": 46,
+   "arab": "إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنتُمْ تُوعَدُونَ",
+   "translation": "Sesungguhnya orang-orang yang mengatakan: \"Tuhan kami ialah Allah\" kemudian mereka meneguhkan pendirian mereka, maka malaikat akan turun kepada mereka dengan mengatakan: \"Janganlah kamu takut dan janganlah merasa sedih; dan gembirakanlah mereka dengan jannah yang telah dijanjikan Allah kepadamu\".",
+   "source": "QS. Fushshilat [41]: 30",
+   "reflection": "Istiqamah — tetap di jalan yang sama hari demi hari — itulah yang sedang kamu bangun. Kabar gembiranya terlalu besar untuk ditukar dengan sesaat.",
+   "tags": [
+    "checkin",
+    "widget"
+   ]
+  },
+  {
+   "id": 47,
+   "arab": "وَهُوَ الَّذِي يَقْبَلُ التَّوْبَةَ عَنْ عِبَادِهِ وَيَعْفُو عَنِ السَّيِّئَاتِ وَيَعْلَمُ مَا تَفْعَلُونَ",
+   "translation": "Dan Dialah yang menerima taubat dari hamba-hamba-Nya dan memaafkan kesalahan-kesalahan dan mengetahui apa yang kamu kerjakan.",
+   "source": "QS. Asy-Syura [42]: 25",
+   "reflection": "Dia menerima taubat, memaafkan kesalahan, dan mengetahui semua yang kamu kerjakan — termasuk perjuanganmu yang tak terlihat siapa pun.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 48,
+   "arab": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ الْأُمُورِ",
+   "translation": "Tetapi orang yang bersabar dan memaafkan, sesungguhnya (perbuatan) yang demikian itu termasuk hal-hal yang diutamakan.",
+   "source": "QS. Asy-Syura [42]: 43",
+   "reflection": "Sabar adalah perkara yang diutamakan Allah. Kesabaranmu hari ini termasuk di dalamnya.",
+   "tags": [
+    "checkin"
+   ]
+  },
+  {
+   "id": 49,
+   "arab": "وَذَكِّرْ فَإِنَّ الذِّكْرَىٰ تَنفَعُ الْمُؤْمِنِينَ",
+   "translation": "Dan tetaplah memberi peringatan, karena sesungguhnya peringatan itu bermanfaat bagi orang-orang yang beriman.",
+   "source": "QS. Adz-Dzariyat [51]: 55",
+   "reflection": "Peringatan ini muncul karena peringatan memang bermanfaat bagi orang beriman. Kamu membacanya — itu tanda imanmu hidup.",
+   "tags": [
+    "acak",
+    "widget"
+   ]
+  },
+  {
+   "id": 50,
+   "arab": "فَفِرُّوا إِلَى اللَّهِ ۖ إِنِّي لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ",
+   "translation": "Maka segeralah kembali kepada (mentaati) Allah. Sesungguhnya aku seorang pemberi peringatan yang nyata dari Allah untukmu.",
+   "source": "QS. Adz-Dzariyat [51]: 50",
+   "reflection": "Saat godaan mengejar, arah larimu bukan menjauh tanpa tujuan — larilah menuju Allah. Dia tempat kembali yang paling aman.",
+   "tags": [
+    "godaan",
+    "bangkit"
+   ]
+  },
+  {
+   "id": 51,
+   "arab": "وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ",
+   "translation": "Dan bahwasanya seorang manusia tiada memperoleh selain apa yang telah diusahakannya.",
+   "source": "QS. An-Najm [53]: 39",
+   "reflection": "Tidak ada usaha yang hilang. Setiap hari bertahan yang kamu usahakan adalah milikmu yang sesungguhnya.",
+   "tags": [
+    "checkin"
+   ]
+  },
+  {
+   "id": 52,
+   "arab": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+   "translation": "Dan Dia bersama kamu di mana saja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan.",
+   "source": "QS. Al-Hadid [57]: 4 (potongan)",
+   "reflection": "Di kamar yang terkunci, di layar yang tak dilihat siapa pun — Dia bersamamu dan Maha Melihat apa yang kamu kerjakan.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 53,
+   "arab": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ اللَّطِيفُ الْخَبِيرُ",
+   "translation": "Apakah Allah Yang menciptakan itu tidak mengetahui (yang kamu lahirkan atau rahasiakan); dan Dia Maha Halus lagi Maha Mengetahui?",
+   "source": "QS. Al-Mulk [67]: 14",
+   "reflection": "Yang menciptakanmu tentu mengetahui segalanya tentangmu — tidak ada yang tersembunyi dari-Nya, termasuk niat baikmu untuk berhenti.",
+   "tags": [
+    "godaan"
+   ]
+  },
+  {
+   "id": 54,
+   "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَّصُوحًا",
+   "translation": "Hai orang-orang yang beriman, bertobatlah kepada Allah dengan taubat yang semurni-murninya (taubat nasuha).",
+   "source": "QS. At-Tahrim [66]: 8 (potongan)",
+   "reflection": "Taubat nasuha: menyesal, berhenti, dan bertekad tidak kembali. Tiga hal itu bisa kamu lakukan dalam satu menit ini.",
+   "tags": [
+    "bangkit"
+   ]
+  },
+  {
+   "id": 55,
+   "arab": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+   "translation": "Maka aku katakan kepada mereka: 'Mohonlah ampun kepada Tuhanmu, sesungguhnya Dia adalah Maha Pengampun.'",
+   "source": "QS. Nuh [71]: 10",
+   "reflection": "Nasihat Nabi Nuh kepada kaumnya tetap berlaku pagi ini: mohonlah ampun kepada Tuhanmu, Dia Maha Pengampun.",
+   "tags": [
+    "bangkit",
+    "subuh"
+   ]
+  },
+  {
+   "id": 56,
+   "arab": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+   "translation": "Sesungguhnya beruntunglah orang yang membersihkan diri (dengan beriman).",
+   "source": "QS. Al-A'la [87]: 14",
+   "reflection": "Membersihkan diri adalah keberuntungan itu sendiri. Hari bersihmu hari ini adalah keberuntungan yang nyata.",
+   "tags": [
+    "checkin",
+    "widget"
+   ]
+  },
+  {
+   "id": 57,
+   "arab": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+   "translation": "Hai jiwa yang tenang. Kembalilah kepada Tuhanmu dengan hati yang puas lagi diridhai-Nya.",
+   "source": "QS. Al-Fajr [89]: 27-28",
+   "reflection": "Jiwa yang tenang — itulah tujuan perjalanan ini. Setiap hari bersih membawamu selangkah lebih dekat kepadanya.",
+   "tags": [
+    "widget",
+    "acak"
+   ]
+  },
+  {
+   "id": 58,
+   "arab": "قَدْ أَفْلَحَ مَن زَكَّاهَا",
+   "translation": "Sesungguhnya beruntunglah orang yang mensucikan jiwa itu.",
+   "source": "QS. Asy-Syams [91]: 9",
+   "reflection": "Mensucikan jiwa adalah proyek seumur hidup yang beruntung. Kamu sedang mengerjakannya — jangan berhenti di tengah.",
+   "tags": [
+    "checkin"
+   ]
+  },
+  {
+   "id": 59,
+   "arab": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+   "translation": "Tuhanmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu.",
+   "source": "QS. Adh-Dhuha [93]: 3",
+   "reflection": "Saat kamu merasa jauh dan sendiri, ingat ayat ini: Tuhanmu tidak meninggalkanmu dan tidak membencimu.",
+   "tags": [
+    "bangkit",
+    "widget"
+   ]
+  },
+  {
+   "id": 60,
+   "arab": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+   "translation": "Kecuali orang-orang yang beriman dan mengerjakan amal saleh dan nasehat menasehati supaya mentaati kebenaran dan nasehat menasehati supaya menetapi kesabaran.",
+   "source": "QS. Al-'Ashr [103]: 3",
+   "reflection": "Iman, amal saleh, dan saling menasihati dalam kesabaran — aplikasi ini adalah caramu menasihati dirimu sendiri setiap hari.",
+   "tags": [
+    "checkin",
+    "acak"
+   ]
+  }
+ ]
+}
